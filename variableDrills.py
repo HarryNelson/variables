@@ -25,43 +25,43 @@ print(var2)
 var3= var2
 print(var3)
 #4) Make a variable called x that is set to 24. And print the variable.
-varx = 24
-print(varx)
+x = 24
+print(x)
 #5) Make a variable called y that is set to 100. And print the variable.
-vary = 100
-print(vary)
+y = 100
+print(y)
 '''FLOATS'''
 #6) Make a variable called z that is set to 1.1. And print the variable.
-varz = 1.1 
-print(varz)
+z = 1.1 
+print(z)
 #7) Make a variable called a that is set to 2.75. And print the variable.
-vara = 2.75
-print(vara)
+a = 2.75
+print(a)
 #8) Make a variable called b that is set to a. And print the variable.
-varb = vara
-print(varb)
+b = a
+print(b)
 #9) Make a variable called c that is set to 100.1. And print the variable.
-varc = 100.1
-print(varc)
+c = 100.1
+print(c)
 #10) Make a variable called d that is set to 12.3. And print the variable.
-vard = 12.3
-print(vard)
+d = 12.3
+print(d)
 '''STRINGS'''
 #11) Make a variable called name that is set to your name. And print the variable.
-var = "harry" 
-print(var)
+name = "harry" 
+print(name)
 #12) Make a variable called e that is set to the first letter of your name. And print the variable.
-vare = "h"
-print(vare)
+e = "h"
+print(e)
 #13) Make a variable called f that is set to the last letter of your name. And print the variable.
-varf = "y"
-print(varf)
+f = "y"
+print(f)
 #14) Make a variable called g that is set to "chicken". And print the variable.
-varg = "chicken"
-print(varg)
+g = "chicken"
+print(g)
 #15) Make a variable called h that is set to the first 3 letters of you name, using the string indexes. And print the variable.
-varh = "har"
-print(varh)
+h = "har"
+print(h)
 '''BOOLEANS'''
 #16) Make a variable called done that is set to False. And print the variable.
 done = [False]
@@ -70,11 +70,11 @@ print(done)
 smart = [True]
 print(smart)
 #18) Make a variable called i that is set to done. And print the variable.
-vari = [done]
-print(vari)
+i = [done]
+print(i)
 #19) Make a variable called j that is set to False. And print the variable.
-varj = [False]
-print(varj)
+j = [False]
+print(j)
 #20) Make a variable called almostDone that is set to True. And print the variable.
 almostDone = [True]
 print(almostDone)
@@ -89,4 +89,4 @@ listString = ["1", "2", "3", "4", "5"]
 print(listString[4])
 #25) Make a list called listBoolean of 5 boolean variables. Then print each item in the list, using indexes.
 listBoolean = [True, False, True, False, True]
-print(listBoolean[0:6])
+print(listBoolean[0:5])
