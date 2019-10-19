@@ -25,12 +25,16 @@ START HERE
 #name = "your name"
 #print(name)
 #Correct:
+name = "Harry"
+print(name)
 
 #2)
 #Broken:
 #x = "your name
 #print(x)
 #Correct:
+x = "Harry"
+print(x)
 
 #3)
 #Broken:
@@ -39,18 +43,24 @@ START HERE
 #PROBLEM: The variable is created correctly, but it won't print.
 #TIP: The variable isn't the problem
 #Correct:
+yay = "yay"
+print(yay)
 
 #4)
 #Broken:
 #y == 4
 #print(y)
 #Correct:
+y = 4
+print(y)
 
 #5)
 #Broken:
 #m == 5
 #print(m)
 #Correct:
+m = 5
+print(m)
 
 '''
 For the next section, there will be a variable create correctly. Your job will
@@ -71,30 +81,37 @@ START HERE
 #1)
 #x = 1.01
 #ANSWER:
+#float
 
 #2)
 #y = 2
 #ANSWER:
+#integer
 
 #3)
 #a = True
 #ANSWER:
+#boolean
 
 #4)
 #b = 1
 #ANSWER:
+#integer
 
 #5)
 #c = "string"
 #ANSWER:
+name = "Harry"
 
 #6)
 #d = False
 #ANSWER:
+#boolean
 
 #7)
 #e = ["a", "b", "c"]
 #ANSWER:
+#list
 
 #8)
 #f = [1, 2, 3]
@@ -103,7 +120,9 @@ START HERE
 #9)
 #g = "nope"
 #ANSWER:
+#list
 
 #10)
 #h = 1.24
 #ANSWER:
+#float
